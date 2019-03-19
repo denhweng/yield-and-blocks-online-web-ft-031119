@@ -1,3 +1,5 @@
+
+
 def hello_t(array)  
   i = 0 
   
@@ -7,5 +9,4 @@ def hello_t(array)
   end
 end
 
-
-
+hello_t
